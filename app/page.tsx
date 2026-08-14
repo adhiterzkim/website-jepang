@@ -42,7 +42,7 @@ export default function Home() {
               にほんごノート
             </h1>
             <p className="text-xs text-[#7b8178]">
-              Japanese Learning Archive
+              Japanese Lesson Fighter (Archive)
             </p>
           </div>
 
@@ -62,8 +62,6 @@ export default function Home() {
 
           <h2 className="text-4xl font-bold leading-tight text-[#405743] md:text-6xl">
             Belajar Bahasa Jepang
-            <br />
-            dengan lebih menyenangkan.
           </h2>
 
           <p className="mt-6 max-w-2xl text-base leading-7 text-[#6b7168] md:text-lg">
